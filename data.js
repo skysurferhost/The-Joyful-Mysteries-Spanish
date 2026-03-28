@@ -51,7 +51,7 @@ var APP_DATA = {
     },
     {
       "id": "1-2-c-b-i-ving-b-thnh-isave",
-      "name": "2. La Visitación de Nuestra Señora a su prima Santa Isabel",
+      "name": "2. La Visitación de Nuestra Señora a su Prima Santa Isabel",
       "levels": [
         {
           "tileSize": 256,
@@ -99,7 +99,7 @@ var APP_DATA = {
         {
           "yaw": -0.12524373470416705,
           "pitch": -0.6640726414363716,
-          "title": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 115%;\">La Visitación de María a su prima Isabel</span><o:p></o:p></p>",
+          "title": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 115%;\">La Visitación de María a su Prima Isabel</span><o:p></o:p></p>",
           "text": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">En aquellos días, María partió y fue sin demora a un pueblo de la montaña de Judá. Entró en la casa de Zacarías y saludó a Isabel. Apenas esta oyó el saludo de María, el niño saltó de alegría en su seno, e Isabel, llena del Espíritu Santo, exclamó: «¡Tú eres bendita entre todas las mujeres y bendito es el fruto de tu vientre! ¿Quién soy yo, para que la madre de mi Señor venga a visitarme? Apenas oí tu saludo, el niño saltó de alegría en mi seno. Feliz de ti por haber creído que se cumplirá lo que te fue anunciado de parte del Señor».<o:p></o:p></span></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">(Lucas 1:39-45)</div>"
         }
       ]
@@ -161,7 +161,7 @@ var APP_DATA = {
     },
     {
       "id": "3-4-c-b-dng-c-cha-gisu-trong-n-thnh",
-      "name": "4. La presentación de Jesús en el Templo",
+      "name": "4. La Presentación de Jesús en el Templo",
       "levels": [
         {
           "tileSize": 256,
@@ -209,14 +209,14 @@ var APP_DATA = {
         {
           "yaw": 0.004950021509621649,
           "pitch": -0.5050909207814644,
-          "title": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 115%;\">La presentación de Jesús en el Templo</span><o:p></o:p></p>",
+          "title": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 115%;\">La Presentación de Jesús en el Templo</span><o:p></o:p></p>",
           "text": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">Cuando llegó el día fijado por la Ley de Moisés para la purificación, llevaron al niño a Jerusalén para presentarlo al Señor, como está escrito en la Ley: “Todo varón primogénito será consagrado al Señor”. También debían ofrecer un sacrificio un par de tórtolas o de pichones de paloma, como ordena la Ley del Señor. Vivía entonces en Jerusalén un hombre llamado Simeón, que era justo y piadoso, y esperaba el consuelo de Israel. El Espíritu Santo estaba en él y le había revelado que no moriría antes de ver al Mesías del Señor. Conducido por el mismo Espíritu, fue al Templo, y cuando los padres de Jesús llevaron al niño para cumplir con él las prescripciones de la Ley, Angel lo tomó en sus brazos y alabó a Dios, diciendo:</span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">«Ahora, Señor, puedes dejar que tu servidor muera en paz, como lo has prometido, porque mis ojos han visto la salvación que preparaste delante de todos los pueblos: luz para iluminar a las naciones paganas y gloria de tu pueblo Israel».</span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">Su padre y su madre estaban admirados por lo que oían decir de él. Simeón, después de bendecirlos, dijo a María, la madre: «Este niño será causa de caída y de elevación para muchos en Israel; será signo de contradicción, y a ti misma una espada te atravesará el corazón. Así se manifestarán claramente los pensamientos íntimos de muchos».</span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">Había también allí una profetisa llamada Ana, hija de Fanuel, de la familia de Aser, mujer ya entrada en años, que, casa en su juventud, había vivido siete años con su marido. Desde entonces había permanecido viuda, y tenía ochenta y cuatro años. No se apartaba del Templo, sirviendo a Dios noche y día con ayunos y oraciones. Se presentó en ese mismo momento y se puso a dar gracias a Dios. Y hablaba acerca del niño a todos los que esperaban la redención de Jerusalén.<o:p></o:p></span></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">(Lucas 2:22-38)</span></p>"
         }
       ]
     },
     {
       "id": "4-5-c-b-tm-c-c-cha-gisu-trong-n-thnh",
-      "name": "5. El Niño Jesús perdido y hallado en el Templo",
+      "name": "5. El Niño Jesús Perdido y Hallado en el Templo",
       "levels": [
         {
           "tileSize": 256,
@@ -258,7 +258,7 @@ var APP_DATA = {
         {
           "yaw": -0.15803943551415855,
           "pitch": -0.41004943600042054,
-          "title": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 115%;\">El Niño Jesús perdido y hallado en el Templo</span><o:p></o:p></p>",
+          "title": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 115%;\">El Niño Jesús Perdido y Hallado en el Templo</span><o:p></o:p></p>",
           "text": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">Sus padres iban todos los años a Jerusalén en la fiesta de la Pascua. Cuando el niño cumplió doce años, subieron como de costumbre, y acababa la fiesta, María y José regresaron, pero Jesús permaneció en Jerusalén sin que ellos se dieran cuenta. Creyendo que estaba en la caravana, caminaron todo un día y después comenzaron a buscarlo entre los parientes y conocidos. Como no lo encontraron, volvieron a Jerusalén en busca de él.</span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">Al tercer día, lo hallaron en el Templo en medio de los doctores de la Ley, escuchándolos y haciéndoles preguntas. Y todos los que los oían estaban asombrados de su inteligencia y sus respuestas. Al ver, sus padres quedaron maravillados y su madre le dijo: «Hijo mío, ¿por qué nos has hecho esto? Piensa que tu padre y yo te buscábamos angustiados». Jesús les respondió: «¿Por qué me buscaban? ¿No sabían que yo debo ocuparme de los asuntos de mi Padre?». Ellos no entendieron lo que les decía.<o:p></o:p></span></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">(Lucas 2:41-50)</span></p>"
         }
       ]
