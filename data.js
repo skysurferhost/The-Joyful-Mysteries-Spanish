@@ -161,7 +161,7 @@ var APP_DATA = {
     },
     {
       "id": "3-4-c-b-dng-c-cha-gisu-trong-n-thnh",
-      "name": "四、圣母献耶稣于圣殿",
+      "name": "4. La presentación de Jesús en el Templo",
       "levels": [
         {
           "tileSize": 256,
@@ -209,14 +209,14 @@ var APP_DATA = {
         {
           "yaw": 0.004950021509621649,
           "pitch": -0.5050909207814644,
-          "title": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 115%;\">圣母献耶稣于圣殿</span><o:p></o:p></p>",
-          "text": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">按梅瑟的法律，一满了他们取洁的日期，他们便带着孩子上耶路撒冷去献给上主，就如上主的法律上所记载的：「凡开胎首生的男性，应祝圣于上主。」并该照上主法律上所吩咐的，献上祭物：一对斑鸠或两只鶵鸽。那时，在耶路撒冷有一个人，名叫西默盎。这人正义虔诚，期待着以色列的安慰，而且圣神也在他身上。他曾蒙圣神启示：自己在未看见上主的受傅者以前，决见不到死亡。他因圣神的感动，进了圣殿；那时，抱着婴孩耶稣的父母正进来，要按着法律的惯例为他行礼。西默盎就双臂接过他来，赞美天主说：</span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">「主啊！现在可照你的话，放你的仆人平安去了！因为我亲眼看见了你的救援，即你在万民之前早准备好的：为作启示异邦的光明，你百姓以色列的荣耀。」</span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">他的父亲和母亲就惊异他关于耶稣所说的这些话。西默盎祝福了他们，又向他的母亲玛利亚说：「看，这孩子已被立定，为使以色列中许多人跌倒和复起，并成为反对的记号──至于你，要有一把利剑剌透你的心灵──为叫许多人心中的思念显露出来。」</span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">又有一位女先知亚纳，是阿协尔支派法奴耳的女儿，已上了年纪。她出阁后，与丈夫同居了七年，以后就守寡，直到八十四岁。她斋戒祈祷，昼夜事奉天主，总不离开圣殿。正在那时刻，她也前来称谢天主，并向一切希望耶路撒冷得救赎的人，讲论这孩子。<o:p></o:p></span></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">(路加福音 2:22-38)</span></p>"
+          "title": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 115%;\">La presentación de Jesús en el Templo</span><o:p></o:p></p>",
+          "text": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">Cuando llegó el día fijado por la Ley de Moisés para la purificación, llevaron al niño a Jerusalén para presentarlo al Señor, como está escrito en la Ley: "Todo varón primogénito será consagrado al Señor". También debían ofrecer un sacrificio un par de tórtolas o de pichones de paloma, como ordena la Ley del Señor. Vivía entonces en Jerusalén un hombre llamado Simeón, que era justo y piadoso, y esperaba el consuelo de Israel. El Espíritu Santo estaba en él y le había revelado que no moriría antes de ver al Mesías del Señor. Conducido por el mismo Espíritu, fue al Templo, y cuando los padres de Jesús llevaron al niño para cumplir con él las prescripciones de la Ley, Angel lo tomó en sus brazos y alabó a Dios, diciendo:</span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">«Ahora, Señor, puedes dejar que tu servidor muera en paz, como lo has prometido, porque mis ojos han visto la salvación que preparaste delante de todos los pueblos: luz para iluminar a las naciones paganas y gloria de tu pueblo Israel».</span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">Su padre y su madre estaban admirados por lo que oían decir de él. Simeón, después de bendecirlos, dijo a María, la madre: «Este niño será causa de caída y de elevación para muchos en Israel; será signo de contradicción, y a ti misma una espada te atravesará el corazón. Así se manifestarán claramente los pensamientos íntimos de muchos».</span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">Había también allí una profetisa llamada Ana, hija de Fanuel, de la familia de Aser, mujer ya entrada en años, que, casa en su juventud, había vivido siete años con su marido. Desde entonces había permanecido viuda, y tenía ochenta y cuatro años. No se apartaba del Templo, sirviendo a Dios noche y día con ayunos y oraciones. Se presentó en ese mismo momento y se puso a dar gracias a Dios. Y hablaba acerca del niño a todos los que esperaban la redención de Jerusalén.<o:p></o:p></span></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">(Lucas 2:22-38)</span></p>"
         }
       ]
     },
     {
       "id": "4-5-c-b-tm-c-c-cha-gisu-trong-n-thnh",
-      "name": "五、耶稣十二龄讲道",
+      "name": "5. El Niño Jesús perdido y hallado en el Templo",
       "levels": [
         {
           "tileSize": 256,
@@ -258,8 +258,8 @@ var APP_DATA = {
         {
           "yaw": -0.15803943551415855,
           "pitch": -0.41004943600042054,
-          "title": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 115%;\">耶稣十二龄讲道</span><o:p></o:p></p>",
-          "text": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">他的父母每年逾越节往耶路撒冷去。他到了十二岁时，他们又照节日的惯例上去了。过完了节日，他们回去的时候，孩童耶稣却留在耶路撒冷，他的父母并未发觉。他们只以为他在同行的人中间，遂走了一天的路程；以后，就在亲戚和相识的人中寻找他。既找不着，便折回耶路撒冷找他。</span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">过了三天，才在圣殿里找到了他。他正坐在经师中，聆听他们，也询问他们。凡听见他的人，对他的智慧和对答，都惊奇不止。他们一看见他，便大为惊异，他的母亲就向他说：「孩子，为什么你这样对待我们？看，你的父亲和我，一直痛苦的找你。」耶稣对他们说：「你们为什么寻找我？你们不知道我必须在我父亲那里吗？」但是，他们不明白他对他们所说的话。<o:p></o:p></span></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">(路加福音 2:41-50)</span></p>"
+          "title": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 115%;\">El Niño Jesús perdido y hallado en el Templo</span><o:p></o:p></p>",
+          "text": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">Sus padres iban todos los años a Jerusalén en la fiesta de la Pascua. Cuando el niño cumplió doce años, subieron como de costumbre, y acababa la fiesta, María y José regresaron, pero Jesús permaneció en Jerusalén sin que ellos se dieran cuenta. Creyendo que estaba en la caravana, caminaron todo un día y después comenzaron a buscarlo entre los parientes y conocidos. Como no lo encontraron, volvieron a Jerusalén en busca de él.</span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">Al tercer día, lo hallaron en el Templo en medio de los doctores de la Ley, escuchándolos y haciéndoles preguntas. Y todos los que los oían estaban asombrados de su inteligencia y sus respuestas. Al ver, sus padres quedaron maravillados y su madre le dijo: «Hijo mío, ¿por qué nos has hecho esto? Piensa que tu padre y yo te buscábamos angustiados». Jesús les respondió: «¿Por qué me buscaban? ¿No sabían que yo debo ocuparme de los asuntos de mi Padre?». Ellos no entendieron lo que les decía.<o:p></o:p></span></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">(Lucas 2:41-50)</span></p>"
         }
       ]
     }
