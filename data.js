@@ -100,7 +100,7 @@ var APP_DATA = {
           "yaw": -0.12524373470416705,
           "pitch": -0.6640726414363716,
           "title": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 115%;\">La Visitación de Nuestra Señora a su prima Santa Isabel</span><o:p></o:p></p>",
-          "text": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">玛利亚就在那几日起身，急速往山区去，到了犹大的一座城。她进了匝加利亚的家，就给依撒伯尔请安。依撒伯尔一听到玛利亚请安，胎儿就在她的腹中欢跃。依撒伯尔遂充满了圣神，大声呼喊说：「在女人中你是蒙祝福的，你的胎儿也是蒙祝福的。吾主的母亲驾临我这里，这是我那里得来的呢？看，你请安的声音一入我耳，胎儿就在我腹中欢喜踊跃。那信了由上主传于她的话必要完成的，是有福的。」<o:p></o:p></span></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">(路加福音 1:39-45)</div>"
+          "text": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">En aquellos días, María partió y fue sin demora a un pueblo de la montaña de Judá. Entró en la casa de Zacarías y saludó a Isabel. Apenas esta oyó el saludo de María, el niño saltó de alegría en su seno, e Isabel, llena del Espíritu Santo, exclamó: «¡Tú eres bendita entre todas las mujeres y bendito es el fruto de tu vientre! ¿Quién soy yo, para que la madre de mi Señor venga a visitarme? Apenas oí tu saludo, el niño saltó de alegría en mi seno. Feliz de ti por haber creído que se cumplirá lo que te fue anunciado de parte del Señor».<o:p></o:p></span></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">(Lucas 1:39-45)</div>"
         }
       ]
     },
