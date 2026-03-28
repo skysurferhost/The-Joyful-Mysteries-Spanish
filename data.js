@@ -44,14 +44,14 @@ var APP_DATA = {
         {
           "yaw": 1.160054435162591,
           "pitch": -0.28169234161257073,
-          "title": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 115%;\">La Encarnación del Hijo de Dios</span><o:p></o:p></p>",
+          "title": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 115%;\">圣母领报</span><o:p></o:p></p>",
           "text": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">En el sexto mes, el ángel Gabriel fue enviado por Dios a una ciudad de Galilea, llamada Nazaret, a una virgen que estaba comprometida con un hombre perteneciente a la familia de David, llamado José. El nombre de la virgen era María.</span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">El Angel entró en su casa y la saludó, diciendo: «¡Alégrate!, llena de gracia, el Señor está contigo». Al oír estas palabras, ella quedó desconcertada y se preguntaba qué podía significar ese saludo.</span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">Pero el Angel le dijo: «No temas, María, porque Dios te ha favorecido. Concebirás y darás a luz un hijo, y le pondrás por nombre Jesús; él será grande y será llamado Hijo del Altísimo. El Señor Dios le dará el trono de David, su padre, reinará sobre la casa de Jacob para siempre y su reino no tendrá fin».</span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">María dijo al Angel: «¿Cómo puede ser eso, si yo no tengo relaciones con ningún hombre?».</span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">El Angel le respondió: «El Espíritu Santo descenderá sobre ti y el poder del Altísimo te cubrirá con su sombra. Por eso el niño será Santo y será llamado Hijo de Dios. También tu parienta Isabel concibió un hijo a pesar de su vejez, y la que era considerada estéril, ya se encuentra en su sexto mes, porque no hay nada imposible para Dios».</span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">María dijo entonces: «Yo soy la servidora del Señor, que se cumpla en mí lo que has dicho».Y el Angel se alejó.<o:p></o:p></span></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">(Lucas 1:26-38)</div>"
         }
       ]
     },
     {
       "id": "1-2-c-b-i-ving-b-thnh-isave",
-      "name": "2. La Visitación de Nuestra Señora a su prima Santa Isabel",
+      "name": "二、圣母往见圣妇依撒伯尔",
       "levels": [
         {
           "tileSize": 256,
@@ -99,14 +99,14 @@ var APP_DATA = {
         {
           "yaw": -0.12524373470416705,
           "pitch": -0.6640726414363716,
-          "title": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 115%;\">La Visitación de María a su prima Isabel</span><o:p></o:p></p>",
-          "text": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">En aquellos días, María partió y fue sin demora a un pueblo de la montaña de Judá. Entró en la casa de Zacarías y saludó a Isabel. Apenas esta oyó el saludo de María, el niño saltó de alegría en su seno, e Isabel, llena del Espíritu Santo, exclamó: «¡Tú eres bendita entre todas las mujeres y bendito es el fruto de tu vientre! ¿Quién soy yo, para que la madre de mi Señor venga a visitarme? Apenas oí tu saludo, el niño saltó de alegría en mi seno. Feliz de ti por haber creído que se cumplirá lo que te fue anunciado de parte del Señor».<o:p></o:p></span></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">(Lucas 1:39-45)</div>"
+          "title": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 115%;\">圣母往见圣妇依撒伯尔</span><o:p></o:p></p>",
+          "text": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">玛利亚就在那几日起身，急速往山区去，到了犹大的一座城。她进了匝加利亚的家，就给依撒伯尔请安。依撒伯尔一听到玛利亚请安，胎儿就在她的腹中欢跃。依撒伯尔遂充满了圣神，大声呼喊说：「在女人中你是蒙祝福的，你的胎儿也是蒙祝福的。吾主的母亲驾临我这里，这是我那里得来的呢？看，你请安的声音一入我耳，胎儿就在我腹中欢喜踊跃。那信了由上主传于她的话必要完成的，是有福的。」<o:p></o:p></span></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">(路加福音 1:39-45)</div>"
         }
       ]
     },
     {
       "id": "2-3-c-b-sinh-c-cha-gisu-ni-hang-",
-      "name": "3. El Nacimiento del Hijo de Dios en el portal de Belén",
+      "name": "三、耶稣基督降生",
       "levels": [
         {
           "tileSize": 256,
@@ -154,14 +154,14 @@ var APP_DATA = {
         {
           "yaw": -0.16032498761056857,
           "pitch": -0.4172683295906481,
-          "title": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 115%;\">El Nacimiento de Jesús</span><o:p></o:p></p>",
-          "text": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">En aquella época apareció un decreto del emperador Augusto, ordenando que se realizara un censo en todo el mundo. Este primer censo tuvo lugar cuando Quirino gobernaba la Siria. Y cada uno iba a inscribirse a su ciudad de origen. José, que pertenecía a la familia de David, salió de Nazaret, ciudad de Galilea, y se dirigió a Belén de Judea, la ciudad de David, para inscribirse con María, su esposa, que estaba embarazada. Mientras se encontraban en Belén, le llegó el tiempo de ser madre; y María dio a luz a su Hijo primogénito, lo envolvió en pañales y lo acostó en un pesebre, porque no había lugar para ellos en el albergue.</span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">En esa región acampaban unos pastores, que vigilaban por turno sus rebaños durante la noche. De pronto, se les apareció el Angel del Señor y la gloria del Señor los envolvió con su luz. Ellos sintieron un gran temor, pero el Angel les dijo: «No teman, porque les traigo una buena noticia, una gran alegría para todo el pueblo: Hoy, en la ciudad de David, les ha nacido un Salvador, que es el Mesías, el Señor. Y esto les servirá de señal: encontrarán a un niño recién nacido envuelto en pañales y acostado en un pesebre». Y junto con el Angel, apareció de pronto una multitud del ejército celestial, que alababa a Dios, diciendo:</span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">¡Gloria a Dios en las alturas, y en la tierra, paz a los hombres amados por él».</span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">Después que los ángeles volvieron al cielo, los pastores se decían unos a otros: «Vayamos a Belén, y veamos lo que ha sucedido y que el Señor nos ha anunciado». Fueron rápidamente y encontraron a María, a José, y al recién nacido acostado en el pesebre. Al verlo, contaron lo que habían oído decir sobre este niño, y todos los que los escuchaban quedaron admirados de que decían los pastores. Mientras tanto, María conservaba estas cosas y las meditaba en su corazón. Y los pastores volvieron, alabando y glorificando a Dios por todo lo que habían visto y oído, conforme al anuncio que habían recibido.<o:p></o:p></span></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">(Lucas 2:1-20)</span></p>"
+          "title": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 115%;\">耶稣基督降生</span><o:p></o:p></p>",
+          "text": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">那时凯撒奥古斯都出了一道上谕，叫天下的人都要登记：这是在季黎诺作叙利亚总督时，初次行的登记。于是，众人各去本城登记。若瑟因为是达味家族的人，也从加里肋亚纳匝肋城，上犹大名叫白冷的达味城去，好同自己已怀孕的聘妻玛利亚去登记。他们在那里的时候，她分娩的日期满了，便生了她的头胎男儿，用襁褓里起，放在马槽里，因为在客栈中为他们没有地方。</span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">在那地区有些牧人露宿，守夜看守羊群。有上主的一个天使站在他们身边，上主的光耀环照着他们，他们便非常害怕。天使向他们说：「不要害怕！看！我给你们报告一个为全民族的大喜讯：今天在达味城中，为你们诞生了一位救世者，他是主默西亚。这是给你们的记号：你们将要看见一个婴儿，里着襁褓，躺在马槽里。」忽有一大队天军，同那天使一起赞颂天主说：</span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">「天主受享光荣于高天，主爱的人在世享平安！」</span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">众天使离开他们往天上去了以后，牧人们就彼此说：「我们且往白冷去，看看上主报告给我们所发生的事。」他们急忙去了，找到了玛利亚和若瑟，并那躺在马槽中的婴儿。他们看见以后，就把天使对他们论这小孩所说的事，传扬开了，凡听见的人都惊讶牧人向他们所说的事。玛利亚却把这一切事默存在自己心中，反复思想。牧人们为了他们所听见和看见的一切，正如天使向他们说的一样，就光荣赞美天主回去了。<o:p></o:p></span></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">(路加福音 2:1-20)</span></p>"
         }
       ]
     },
     {
       "id": "3-4-c-b-dng-c-cha-gisu-trong-n-thnh",
-      "name": "4. La presentación de Jesús en el Templo",
+      "name": "四、圣母献耶稣于圣殿",
       "levels": [
         {
           "tileSize": 256,
@@ -209,14 +209,14 @@ var APP_DATA = {
         {
           "yaw": 0.004950021509621649,
           "pitch": -0.5050909207814644,
-          "title": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 115%;\">La presentación de Jesús en el Templo</span><o:p></o:p></p>",
-          "text": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">Cuando llegó el día fijado por la Ley de Moisés para la purificación, llevaron al niño a Jerusalén para presentarlo al Señor, como está escrito en la Ley: "Todo varón primogénito será consagrado al Señor". También debían ofrecer un sacrificio un par de tórtolas o de pichones de paloma, como ordena la Ley del Señor. Vivía entonces en Jerusalén un hombre llamado Simeón, que era justo y piadoso, y esperaba el consuelo de Israel. El Espíritu Santo estaba en él y le había revelado que no moriría antes de ver al Mesías del Señor. Conducido por el mismo Espíritu, fue al Templo, y cuando los padres de Jesús llevaron al niño para cumplir con él las prescripciones de la Ley, Angel lo tomó en sus brazos y alabó a Dios, diciendo:</span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">«Ahora, Señor, puedes dejar que tu servidor muera en paz, como lo has prometido, porque mis ojos han visto la salvación que preparaste delante de todos los pueblos: luz para iluminar a las naciones paganas y gloria de tu pueblo Israel».</span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">Su padre y su madre estaban admirados por lo que oían decir de él. Simeón, después de bendecirlos, dijo a María, la madre: «Este niño será causa de caída y de elevación para muchos en Israel; será signo de contradicción, y a ti misma una espada te atravesará el corazón. Así se manifestarán claramente los pensamientos íntimos de muchos».</span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">Había también allí una profetisa llamada Ana, hija de Fanuel, de la familia de Aser, mujer ya entrada en años, que, casa en su juventud, había vivido siete años con su marido. Desde entonces había permanecido viuda, y tenía ochenta y cuatro años. No se apartaba del Templo, sirviendo a Dios noche y día con ayunos y oraciones. Se presentó en ese mismo momento y se puso a dar gracias a Dios. Y hablaba acerca del niño a todos los que esperaban la redención de Jerusalén.<o:p></o:p></span></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">(Lucas 2:22-38)</span></p>"
+          "title": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 115%;\">圣母献耶稣于圣殿</span><o:p></o:p></p>",
+          "text": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">按梅瑟的法律，一满了他们取洁的日期，他们便带着孩子上耶路撒冷去献给上主，就如上主的法律上所记载的：「凡开胎首生的男性，应祝圣于上主。」并该照上主法律上所吩咐的，献上祭物：一对斑鸠或两只鶵鸽。那时，在耶路撒冷有一个人，名叫西默盎。这人正义虔诚，期待着以色列的安慰，而且圣神也在他身上。他曾蒙圣神启示：自己在未看见上主的受傅者以前，决见不到死亡。他因圣神的感动，进了圣殿；那时，抱着婴孩耶稣的父母正进来，要按着法律的惯例为他行礼。西默盎就双臂接过他来，赞美天主说：</span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">「主啊！现在可照你的话，放你的仆人平安去了！因为我亲眼看见了你的救援，即你在万民之前早准备好的：为作启示异邦的光明，你百姓以色列的荣耀。」</span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">他的父亲和母亲就惊异他关于耶稣所说的这些话。西默盎祝福了他们，又向他的母亲玛利亚说：「看，这孩子已被立定，为使以色列中许多人跌倒和复起，并成为反对的记号──至于你，要有一把利剑剌透你的心灵──为叫许多人心中的思念显露出来。」</span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">又有一位女先知亚纳，是阿协尔支派法奴耳的女儿，已上了年纪。她出阁后，与丈夫同居了七年，以后就守寡，直到八十四岁。她斋戒祈祷，昼夜事奉天主，总不离开圣殿。正在那时刻，她也前来称谢天主，并向一切希望耶路撒冷得救赎的人，讲论这孩子。<o:p></o:p></span></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">(路加福音 2:22-38)</span></p>"
         }
       ]
     },
     {
       "id": "4-5-c-b-tm-c-c-cha-gisu-trong-n-thnh",
-      "name": "5. El Niño Jesús perdido y hallado en el Templo",
+      "name": "五、耶稣十二龄讲道",
       "levels": [
         {
           "tileSize": 256,
@@ -258,8 +258,8 @@ var APP_DATA = {
         {
           "yaw": -0.15803943551415855,
           "pitch": -0.41004943600042054,
-          "title": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 115%;\">El Niño Jesús perdido y hallado en el Templo</span><o:p></o:p></p>",
-          "text": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">Sus padres iban todos los años a Jerusalén en la fiesta de la Pascua. Cuando el niño cumplió doce años, subieron como de costumbre, y acababa la fiesta, María y José regresaron, pero Jesús permaneció en Jerusalén sin que ellos se dieran cuenta. Creyendo que estaba en la caravana, caminaron todo un día y después comenzaron a buscarlo entre los parientes y conocidos. Como no lo encontraron, volvieron a Jerusalén en busca de él.</span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">Al tercer día, lo hallaron en el Templo en medio de los doctores de la Ley, escuchándolos y haciéndoles preguntas. Y todos los que los oían estaban asombrados de su inteligencia y sus respuestas. Al ver, sus padres quedaron maravillados y su madre le dijo: «Hijo mío, ¿por qué nos has hecho esto? Piensa que tu padre y yo te buscábamos angustiados». Jesús les respondió: «¿Por qué me buscaban? ¿No sabían que yo debo ocuparme de los asuntos de mi Padre?». Ellos no entendieron lo que les decía.<o:p></o:p></span></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">(Lucas 2:41-50)</span></p>"
+          "title": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 115%;\">耶稣十二龄讲道</span><o:p></o:p></p>",
+          "text": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">他的父母每年逾越节往耶路撒冷去。他到了十二岁时，他们又照节日的惯例上去了。过完了节日，他们回去的时候，孩童耶稣却留在耶路撒冷，他的父母并未发觉。他们只以为他在同行的人中间，遂走了一天的路程；以后，就在亲戚和相识的人中寻找他。既找不着，便折回耶路撒冷找他。</span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">过了三天，才在圣殿里找到了他。他正坐在经师中，聆听他们，也询问他们。凡听见他的人，对他的智慧和对答，都惊奇不止。他们一看见他，便大为惊异，他的母亲就向他说：「孩子，为什么你这样对待我们？看，你的父亲和我，一直痛苦的找你。」耶稣对他们说：「你们为什么寻找我？你们不知道我必须在我父亲那里吗？」但是，他们不明白他对他们所说的话。<o:p></o:p></span></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">(路加福音 2:41-50)</span></p>"
         }
       ]
     }
