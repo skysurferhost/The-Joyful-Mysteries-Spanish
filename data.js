@@ -106,7 +106,7 @@ var APP_DATA = {
     },
     {
       "id": "2-3-c-b-sinh-c-cha-gisu-ni-hang-",
-      "name": "3. El Nacimiento del Hijo de Dios en el portal de Belén",
+      "name": "3. El Nacimiento del Hijo de Dios en el Portal de Belén",
       "levels": [
         {
           "tileSize": 256,
